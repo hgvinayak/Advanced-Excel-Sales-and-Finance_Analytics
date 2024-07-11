@@ -1,20 +1,23 @@
 
 # Project : AtliQ Hardware - Sales and Finance Analytics
 
-🟣About the Company: 
+**✅About the Company:**
 
 AtliQ Business Model : AtliQ hardware is a global hardware supplier of electronic hardware items such as keyboard , mouse ,printer etc.
 
-🔷AtliQ Hardwares --> Customers (Retailers - online and offline ) ---> Consumer
+AtliQ Hardwares --> Customers (Retailers - online and offline ) ---> Consumer
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🌱Objective: 
+**🌱Objective:**
+
+
 To Create the Sales Performance report and also Finance report for the company to provide the insights on improving the net sales and for strategic business decisions.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-💠Steps taken
+
+
+
+**💠Steps taken**
 1. Understanding the Business requirement from AtlQ hardware and then understanding the fundamental business concepts related to it.
 2. Extracting the data to the power query and then cleaning the data such as renaming the columns, removing the extra spaces , handling the missing values, column quality,
 Handling the duplicates, etc.
@@ -30,7 +33,7 @@ Handling the duplicates, etc.
    a. P&L by Fiscal Years
    b. P&L by Fiscal Year and Months.
 
-🟠 Technical Skills:
+**🟠 Technical Skills:**
 1. Power Query for ETL(Extract, Transform and Load) operation.
 2. Custom colums using M language .
 3. Looking into the data quality by using column quality , destribuition, profile
@@ -40,14 +43,14 @@ Handling the duplicates, etc.
 7. Establishing the realtionships using the Power Pivot.
 
 
-🟢Soft Skills:
+**🟢Soft Skills:**
 1. Understanding the Business Fundamentals such as Business model, KPI parameters etc.
 2. Incorporating the user -empathic report design.
 3. Applying and understanding the Functional knowledge on Finance.
 4. Deviding the problem into small tasks and finally connecting all togather to achive the desired result.
 5. Understanding the Domain Knowledge of sales,Finance and how exactly these KPI's will help in stategic decision making.
 
-⏩Information:
+**⏩Information:**
 
 1. Sales Performance report : Will help to undesrstand the Net sales across diffrent customers over the period of time.
 <img width="226" alt="Customer Net Sales Performance" src="https://github.com/hgvinayak/Advanced-Excel-Sales-and-Finance_Analytics/assets/144557548/77d9bccb-f1c4-470b-afce-64d0c82c47b6">
