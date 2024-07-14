@@ -1,4 +1,3 @@
-
 # Project : AtliQ Hardware - Sales and Finance Analytics
 
 **✅About the Company:**
